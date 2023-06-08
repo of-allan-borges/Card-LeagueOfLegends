@@ -1,0 +1,19 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin:0;
+    background-image: url(https://i.pinimg.com/originals/62/9d/15/629d152f62ef677770d60e71c0e1b970.jpg);
+}
+
+.formulario form {
+    max-width: 80%;
+    margin: 60px 0;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}
+
+.formulario input {
+    border-radius: 10px;
+}
